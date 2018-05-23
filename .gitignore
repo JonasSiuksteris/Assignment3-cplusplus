@@ -1,0 +1,12 @@
+obj/
+bin/
+.idea/
+cmake-build-debug/
+*.cbp
+*.layout
+*.exe
+*.o
+*.depend
+*.txt
+*.cmake
+Makefile
