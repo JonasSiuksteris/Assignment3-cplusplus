@@ -1,0 +1,11 @@
+Name       Surname Final-Average       Finale-Median      Category    
+Surname1   Name1   5.92                6.00               kietiakas   
+Surname10  Name10  8.76                9.00               kietiakas   
+Name10     Name10  9.00                9.00               kietiakas   
+Surname2   Name2   7.16                7.80               kietiakas   
+Surname3   Name3   2.92                3.00               vargsiukas  
+Surname4   Name4   2.44                2.20               vargsiukas  
+Surname5   Name5   7.20                7.60               kietiakas   
+Surname6   Name6   4.20                4.60               vargsiukas  
+Surname7   Name7   6.72                7.20               kietiakas   
+Surname8   Name8   7.04                7.20               kietiakas   
