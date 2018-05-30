@@ -1,11 +1,11 @@
 ﻿# Darbas3
 
-﻿##Veikimo principas
+﻿#Veikimo principas
 
 Paleidus programą bus išmatuotas laikas, kiek trunka pripildyti skirtingų dydžių vektorius skirtingais metodais.
 
 
-﻿##1. Palyginimas antro ir trečio darbo naudojant vektorius
+﻿#1. Palyginimas antro ir trečio darbo naudojant vektorius
 
 Su Struktūra
 
@@ -27,7 +27,7 @@ Su Klase
 |10000                  |0.253s          |0.288s         |0.382s          |
 |100000                 |2.207s          |2.265s         |3.377s          |
 
-﻿##2. Skirtingi flag'ai
+﻿#2. Skirtingi flag'ai
 
 | Vektoriaus dydis      | Be konteineriu | 1 Konteineris | 2 Konteineriai | Flagas |
 |-----------------------|----------------|---------------|----------------|--------|
